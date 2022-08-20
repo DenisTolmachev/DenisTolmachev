@@ -14,5 +14,5 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="32" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="32"/>
 </div>
-HTML and CSS, responsive WEB concept, CSS Flexbox, SASS preprocessor, , JS library React (Redux and React-Router). Experience with npm batch manager, Gulp and Webpack. Experience with Git version control system. Knowledge of PhotoShop graphic editor, sufficient for layout and image processing. Experience using online services Zeplin, Figma.</p>
+<p>Experience using online services Zeplin, Figma.</p>
 
