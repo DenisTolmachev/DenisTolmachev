@@ -3,8 +3,8 @@
 <h3 align="center">I am a junior developer from Ukraine ​💙💛🇺🇦​</h3>
 <p>I have experience only in GoIT Academy training projects and independent projects to practice my skills. I love to learn and I'm happy to apply my knowledge to new projects.</p>
 <h2>Here are my strong skills:</h2>
-<div align="center" display="flex">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32" style="max-width: 100%; margin-right: 10px;/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="32" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" padding-right="10"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="32" padding-right="10"/>
