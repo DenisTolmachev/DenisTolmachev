@@ -12,7 +12,7 @@
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="32" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" height="32" />
+  <img align="left" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1661080304~hmac=37830f9a4d5fc14388f8dceed9e943de" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="32"/>
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="32" />
 </div>
