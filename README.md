@@ -6,13 +6,13 @@
 <div align="center">
   <img align="left" src="/img/html.png" height="32"/>
   <img align="left" src="/img/css.png" height="32" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="32" />
-  <img align="left" src="https://handlebarsjs.com/images/handlebars_logo.png" height="32" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="32" />
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="32" />
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="32" />
-  <img align="left" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1661080388~hmac=f32734879acccceaf0bf36ca18dd235a" height="32" />
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="32"/>
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="32" />
+  <img align="left" src="/img/sass.png" height="32" />
+  <img align="left" src="/img/handlebars.png" height="32" />
+  <img align="left" src="/img/js.png" height="32" />
+  <img align="left" src="/img/react.png" height="32" />
+  <img align="left" src="/img/node.png" height="32" />
+  <img align="left" src="/img/webpack.png" height="32" />
+  <img align="left" src="/img/git.png" height="32" />
+  <img align="left" src="/img/visual-studio-code.png" height="32"/>
+  <img align="left" src="/img/figma.png" height="32" />
 </div>
