@@ -4,8 +4,8 @@
 <p>I have experience only in GoIT Academy training projects and independent projects to practice my skills. I love to learn and I'm happy to apply my knowledge to new projects.</p>
 <h2>Here are my strong skills:</h2>
 <div align="center">
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" height="32"/>
-  <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="32" />
+  <img align="left" src="/img/html.png" height="32"/>
+  <img align="left" src="/img/css.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="32" />
   <img align="left" src="https://handlebarsjs.com/images/handlebars_logo.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32" />
