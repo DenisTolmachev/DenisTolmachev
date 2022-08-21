@@ -4,7 +4,7 @@
 <p>I have experience only in GoIT Academy training projects and independent projects to practice my skills. I love to learn and I'm happy to apply my knowledge to new projects.</p>
 <h2>Here are my strong skills:</h2>
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="32"/>
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="32" />
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="32" />
