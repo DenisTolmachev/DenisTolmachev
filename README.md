@@ -6,11 +6,12 @@
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" height="32"/>
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919831.png" height="32" />
+  <img align="left" src="https://handlebarsjs.com/images/handlebars_logo.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="32" />
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="32" />
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="32" />
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/38/38401.png" height="32" />
   <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="32"/>
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="32" />
 <p>Experience using online services Zeplin, Figma.</p>
-
