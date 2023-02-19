@@ -7,7 +7,7 @@
   <img align="left" src="/img/html.png" height="32"/>
   <img align="left" src="/img/css.png" height="32" />
   <img align="left" src="/img/sass.png" height="32" />
-  <img align="left" src="/img/tailwind.png" height="32" />
+  <img align="left" src="/img/tailwind-css.svg" height="32"/>
   <img align="left" src="/img/handlebars.png" height="32" />
   <img align="left" src="/img/js.png" height="32" />
   <img align="left" src="/img/react.png" height="32" />
