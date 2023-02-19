@@ -7,6 +7,7 @@
   <img align="left" src="/img/html.png" height="32"/>
   <img align="left" src="/img/css.png" height="32" />
   <img align="left" src="/img/sass.png" height="32" />
+  <img align="left" src="/img/tailwind.png" height="32" />
   <img align="left" src="/img/handlebars.png" height="32" />
   <img align="left" src="/img/js.png" height="32" />
   <img align="left" src="/img/react.png" height="32" />
@@ -14,5 +15,6 @@
   <img align="left" src="/img/webpack.png" height="32" />
   <img align="left" src="/img/git.png" height="32" />
   <img align="left" src="/img/visual-studio-code.png" height="32"/>
+  <img align="left" src="/img/webstorm.png" height="32" />
   <img align="left" src="/img/figma.png" height="32" />
 </div>
